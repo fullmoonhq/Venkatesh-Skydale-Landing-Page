@@ -84,4 +84,4 @@ For any inquiries, feedback, or collaboration, please open an issue or submit a 
 
 ## 💡 Credits
 
-Developed by [fullmoonhq](https://github.com/fullmoonhq).
+Developed by [mdmbypoonam](https://github.com/mdmbypoonam).
